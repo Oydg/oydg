@@ -10,6 +10,9 @@
  return 0;
  
   cout << "Hello World2";
+  
+   cout << "Hello World";
+ cout << "Hello World2";
  return 0;
 
  }
